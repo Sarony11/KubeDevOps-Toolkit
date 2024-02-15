@@ -32,4 +32,4 @@ RUN rm -rf /var/cache/apk/* && \
     rm -rf /tmp/*
 
 # Set the entry point to bash
-ENTRYPOINT ["/bin/bash"]
+ENTRYPOINT ["tail", "-f", "/dev/null"]
