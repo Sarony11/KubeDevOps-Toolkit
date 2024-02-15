@@ -9,7 +9,6 @@ KubeDevOps-Toolkit is a Docker image tailored for DevOps engineers and sysadmins
 - **Networking Tools**: Includes tcpdump, nmap, net-tools, and more for network analysis.
 - **Debugging Utilities**: Strace, curl, wget, and bash for general-purpose debugging.
 - **Kubernetes Integration**: kubectl pre-installed for direct interactions with Kubernetes clusters.
-- **AWS CLI**: For managing AWS resources, useful in AWS-based Kubernetes environments.
 - **Flexible and Extensible**: Easily customizable to add or remove tools.
 
 ## Getting Started
